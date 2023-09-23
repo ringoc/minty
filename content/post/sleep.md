@@ -11,4 +11,4 @@ Sleep Minty
 
 <!--more-->
 
-![Minty](/img/post/sleep.jpeg)
+![Minty](/img/post/sleep.jpg)
